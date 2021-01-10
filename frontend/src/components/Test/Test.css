@@ -1,0 +1,30 @@
+.answer {
+    height:200px;
+    font-size:18px;
+    margin-top: 5px;
+    padding: 15px;
+    width:400px;
+    border:1px solid #c9c9c9;
+    border-radius: 10px;
+    color:#555555;
+}
+
+.answer:focus {
+    border-color: #1877f2;
+    box-shadow: 0 0 0 2px #e7f3ff;
+}
+
+.btn-post-answer {
+    height: 40px;
+    width: 200px;
+    margin: 20px auto;
+    background-color: gold;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px rgb(177, 177, 177);
+}
+
+.btn-post-answer:hover{
+    background-color: rgba(231, 200, 25, 0.829);
+}
